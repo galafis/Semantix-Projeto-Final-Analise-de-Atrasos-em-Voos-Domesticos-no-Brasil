@@ -63,11 +63,9 @@ O projeto foi desenvolvido em um Jupyter Notebook (`analise_atrasos_voos.ipynb`)
 
 Para uma explicação mais aprofundada sobre cada etapa do projeto, incluindo a coleta de dados, a modelagem realizada e as conclusões detalhadas, consulte o arquivo [DOCUMENTACAO.md](DOCUMENTACAO.md).
 
-## Estrutura do Repositório
 
-(Será detalhada após a criação dos demais arquivos)
 
----
+--
 
 *Este projeto foi desenvolvido como parte de uma atividade prática, visando aplicar conhecimentos em análise de dados e machine learning para solucionar uma problemática real.*
 
